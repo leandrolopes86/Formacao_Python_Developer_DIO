@@ -1,7 +1,7 @@
 import sys
 from time import sleep
 from datetime import datetime
-#teste de git
+
 lista_usuarios = []
 lista_contas = []
 agencia = 0.001
