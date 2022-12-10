@@ -11,6 +11,7 @@ saque_atual = 0
 o = None
 o_ver = '12345'
 sleep(2)
+
 print(" Bem Vindo ao Sistema Bancário eBank ")
 print()
 while o != 5:
